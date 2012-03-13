@@ -1,0 +1,13 @@
+body { background:url("http://www.inspiredtalents.com/wp-content/themes/inspiredtalents/images/style1/bg.jpg") repeat-x #F7F7F7; color:#434343;font-family: Lucida Sans Unicode, Arial, Sans-Serif; font-size:13px;}
+/* Structure */
+#header, #content, #sidebar, #footer {margin:10px 0px; padding:10px 0;}
+#header { width:960px; margin:20px auto; 120px;}    
+#menu { width:960px;border-bottom:solid 1px #ccc;padding:10px 0;}
+#menu a{text-decoration:none; color:#ff3300;} 
+#main {width:960px; margin:0px auto; overflow:hidden;}
+#toolbox { text-align:right; float:right;}
+#content { width:620px; float:left;}
+#sidebar { width:310px; margin-left:10px; float:right;}
+#footer { width:960px; margin:0px auto; border-top:solid 1px #ff6600;}
+a { color:#0000ff;}
+img {border:none;}

@@ -1,0 +1,54 @@
+* { 
+	margin: 0; 
+	padding: 0; 
+}
+
+body { 
+	font-size: 62.5%; 
+	font-family: Georgia, serif;
+	background: url(images/page-bg.jpg) top center no-repeat #233743; 
+}
+
+h6 {
+	font-size: 1.4em;
+	margin-bottom: 15px;
+}
+
+a { color: white; }
+
+label, li {
+	display: block;
+	padding:10px;
+	font-size: 2.4em;
+	color: #e3f1fa;
+}
+
+fieldset {
+	margin: 115px auto;
+	width: 800px;
+	padding: 8px 15px 15px 15px;
+	border: 2px solid white;
+	border-radius: 25px;
+	display: block; /* IE 7 Requires This */
+	}
+	legend {
+		padding: 4px 6px 4px 6px;
+		border: 2px solid white;
+		border-radius: 25px;
+		font-size: 4.0em;
+		color: #e3f1fa;
+		font-style: italic;
+	}
+	
+ul { list-style: none; margin-bottom: 15px;}
+
+.results-bar {
+	padding: 10px;
+	color: white;
+	background: url(images/result-bar-bg.png) left left;
+	white-space: nowrap;
+}
+
+span.total-votes {
+	font-size: 2.6em;
+}
